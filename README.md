@@ -71,7 +71,27 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 ```
 
 ## OUTPUT:
-Recovered Deleted File List and Details
+Install and launch autospy
+<img width="1920" height="1200" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/7b4a2fec-2b3d-4747-b331-6a7e781494ec" />
+
+case information
+<img width="1920" height="1200" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/a1d2ec63-9301-44e3-8c2a-54864b54361e" />
+
+select data source type
+<img width="1920" height="1200" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/fada8c12-b63a-4c87-bbc1-c0694c67c7c9" />
+
+
+<img width="1920" height="1200" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/d41c323c-0b67-434e-a34d-b4ffdc618bd1" />
+
+Add data source 
+<img width="1920" height="1200" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/fdd32376-e9f7-40a3-94ff-a4d4f2948184" />
+
+File system analysis
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/74e83b83-b851-4219-955f-f6dd1fbcc2fb" />
+Select file to exract
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3e3368c7-68a6-402a-a47f-07338312d9e0" />
+file exracted
+<img width="1920" height="1200" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/f79edd1c-a297-4a4a-8c13-37c27c9dc461" />
 
 ## RESULT:
 Deleted files were successfully retrieved and analyzed using Autopsy.
